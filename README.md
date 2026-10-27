@@ -1,1 +1,1 @@
-# Medidor-de-Pot-ncia-Luminosa
+# Medidor-de-Potência-Luminosa
